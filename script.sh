@@ -3,4 +3,5 @@
 hostname -I
 date
 ip addr
+df -hT
 
